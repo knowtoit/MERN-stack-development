@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    font-size: 25px;
+    color: #f08804;
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+.content{
+    height: 100px;
+    width: 100px;
+    border: #0f1111 2px solid;
+    display: inline-block;
+    margin: 25px;
+    padding: 25px;
+}
+
+#box1{
+    background-color: rgba(255, 255, 0, 0.5);
+}
+
+#box2{
+    background-color: rgba(255, 0 ,0 ,0.5);
+}
+
+#box3{
+    background-color: rgba(255, 0, 255, 0.5);
+}
+
+#contentDiv{
+    height: 650px;
+}
+footer{
+    background-color: #0f1111;
+    columns: white;
+    text-align: center; 
+}
