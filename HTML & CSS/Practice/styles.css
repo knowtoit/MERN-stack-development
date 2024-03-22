@@ -1,7 +1,21 @@
-div{
+.box{
     height: 100px;
     width: 100px;
-    margin: 25px;
-    padding: 25px;
+    background-color: aqua;
     display: inline-block;
+    border: 2px solid black;
+}
+
+#box1{
+    position: static;
+}
+
+#box2{
+    position: relative;
+    top: 20px;
+}
+
+#box3{
+    position: absolute; 
+    right: 50px;
 }
