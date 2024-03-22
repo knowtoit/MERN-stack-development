@@ -7,15 +7,6 @@
 }
 
 #box1{
-    position: static;
-}
-
-#box2{
-    position: relative;
-    top: 20px;
-}
-
-#box3{
-    position: absolute; 
-    right: 50px;
+    background-image: url("cat_photo.jpg");
+    background-size: contain;
 }
